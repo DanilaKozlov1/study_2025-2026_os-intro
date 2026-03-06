@@ -1,7 +1,7 @@
 # Лабораторная работа №2 Первоначальная настройка git
 
 **Студент:** Козлов Данила
-**Дата::** 04.03.2026
+**Дата:** 04.03.2026
 
 ## Цель работы
 
@@ -63,7 +63,7 @@ cd ~/work/study/2025-2026/"Операционные системы"
 gh repo create study_2025-2026_os-intro --template=yamadharma course-directory-student-template --public
 git clone --recursive https://github.com/DanilaKozlov1/study_2025-2026-2026_os-intro.git os-intro
 
-![Репозиторий](ing/06_sign.jpg)
+![Репозиторий](img/06_sign.jpg)
 
 ## Выводы
 
